@@ -17,6 +17,8 @@ public class Git {
         System.out.println("master merge2");
         System.out.println("hot-fix test1");
         System.out.println("hot-fix test2");
+
+        System.out.println("push to git test.");
     }
 
 }
