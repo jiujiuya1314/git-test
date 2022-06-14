@@ -15,6 +15,8 @@ public class Git {
         System.out.println("hot-fix-merge");
         System.out.println("master merge2");
         System.out.println("master merge2");
+        System.out.println("hot-fix test1");
+        System.out.println("hot-fix test2");
     }
 
 }
