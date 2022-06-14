@@ -13,6 +13,8 @@ public class Git {
         System.out.println("hello git.");
         System.out.println("hello git.");
         System.out.println("hot-fix-merge");
+        System.out.println("master merge2");
+        System.out.println("master merge2");
     }
 
 }
