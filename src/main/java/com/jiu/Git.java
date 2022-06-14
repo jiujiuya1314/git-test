@@ -19,6 +19,8 @@ public class Git {
         System.out.println("hot-fix test2");
 
         System.out.println("push to git test.");
+        
+        System.out.println("pull to git test.");
     }
 
 }
